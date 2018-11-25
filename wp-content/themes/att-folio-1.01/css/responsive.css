@@ -1,0 +1,61 @@
+/* All Responsive
+================================================== */
+@media only screen and (max-width: 959px) { 
+	/*logo*/
+	#logo { display: block; float: none; margin: 0 auto 50px; text-align: center; }
+	#logo img { display: block; margin: 0 auto; }
+	/*navigation top menu*/
+	#site-navigation select { display: block; width: 100%; }
+	#site-navigation ul { display: none; }
+	#site-navigation { position: inherit; float: none; margin: 0; right: auto; top: auto; }
+	/*hide things*/
+	#single-portfolio-related .overlay, .portfolio-entry .overlay { display: none; }
+	#single-portfolio-media .flex-direction-nav,
+	#home-slider .flex-direction-nav { display: none !important; }
+}
+/* Tablet (Portrait)
+================================================== */
+@media only screen and (min-width: 768px) and (max-width: 959px) { 
+	/*grid*/
+	.container { width: 700px }
+	/*main*/
+	#post { width: 420px }
+	.col { margin-bottom: 14px; }
+}
+/* iPad Mini Portrait Edits
+================================================== */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) { 
+	.att-one-half, .att-one-third, .att-two-third, .att-three-fourth, .att-one-fourth, .att-one-fifth, .att-two-fifth, .att-three-fifth, .att-four-fifth, .att-one-sixth, .att-five-sixth { width: 100%; float: none; margin-right: 0; margin-bottom: 20px; }
+	.att-pricing-table > div { margin-bottom: 25px }
+	.att-box, .att-box.left, .att-box.right { float: none; width: 100% !important; }
+}
+/* Mobile (Portrait)
+================================================== */
+@media only screen and (max-width: 767px) {
+	.col { width: 100%; margin-left: 0; padding-right: 0 !important; }
+	.container { width: 90% }
+	/*hide things*/
+	#home-slider { display: none }
+	#post-pagination { display: none; }
+	.portfolio-entry .overlay { display: none; }
+	/*main*/
+	#post { width: 100% }
+	.sidebar-container { width: 100%; margin-top: 50px; }
+	/*home*/
+	#home-wrap .heading, #ajax-container .heading { font-size: 14px }
+	#home-wrap .heading span, #ajax-container .heading span { max-width: 55% }
+	/*search*/
+	.search-entry-thumbnail { float: none; margin: 0; }
+	.search-entry-content { margin-top: 60px; margin-bottom: 60px; }
+	/*comments*/
+	.children li.depth-2, .children li.depth-3, .children li.depth-4, .children li.depth-5, .children li.depth-6, .children li.depth-7, .children li.depth-8, .children li.depth-9, .children li.depth-10 { margin: 0 }
+	/*shortcodes*/
+	.att-one-half, .att-one-third, .att-two-third, .att-three-fourth, .att-one-fourth, .att-one-fifth, .att-two-fifth, .att-three-fifth, .att-four-fifth, .att-one-sixth, .att-five-sixth { width: 100%; float: none; margin-right: 0; margin-bottom: 20px; }
+	.att-pricing-table > div { margin-bottom: 25px }
+	.att-box, .att-box.left, .att-box.right { float: none; width: 100% !important; }
+}
+/* Mobile (Landscape)
+================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	.container { width: 400px; }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>milos &#8211; Milos Manojlovic</title>
+	<atom:link href="http://www.milosmanojlovic.com/author/milos/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.milosmanojlovic.com</link>
+	<description>painter and poet</description>
+	<lastBuildDate>Thu, 12 Jun 2014 01:39:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>The opening of the Exhibition at the Customs Wharf Gallery, February 2014</title>
+		<link>http://www.milosmanojlovic.com/the-customs-wharf-gallery-feb2014/</link>
+		<comments>http://www.milosmanojlovic.com/the-customs-wharf-gallery-feb2014/#respond</comments>
+		<pubDate>Mon, 17 Feb 2014 15:50:27 +0000</pubDate>
+		<dc:creator><![CDATA[milos]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.milosmanojlovic.com/wp/?p=178</guid>
+		<description><![CDATA[The Customs Wharf Gallery was the host of the latest exhibition of Milos Manojlovic&#8217;s paintings. Enjoy some photographs from the exhibition opening event.]]></description>
+		<wfw:commentRss>http://www.milosmanojlovic.com/the-customs-wharf-gallery-feb2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
